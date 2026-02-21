@@ -1,4 +1,4 @@
-const productContainer = document.querySelector(".porduct-list");
+const productContainer = document.querySelector(".product-list");
 
 if (productContainer) {
     displayProducts();
