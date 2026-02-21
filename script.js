@@ -10,7 +10,7 @@ function displayProducts() {
         productCard.classList.add("product-card");
         productCard.innerHTML = `
         <div class="img-box">
-        <img src="${product.colors[0].mainImage}">
+            <img src="${product.colors[0].mainImage}">
         </div>
         <h2 class="title">${product.title}</h2>
         <span class="price">${product.price}</span>

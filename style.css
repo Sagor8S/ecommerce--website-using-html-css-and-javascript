@@ -95,6 +95,8 @@ nav .cart-icon .cart-item-count{
     margin-top: 5px;
 }
 
+    /* product-detail code start hare */
+
 .product-detail{
     display: grid;
     grid-template-columns: repeat(2, 1ft);
