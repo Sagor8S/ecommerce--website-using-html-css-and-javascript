@@ -3,7 +3,7 @@ const products = [
         id: 1,
         title: "Men Casual Round Neck T-Shirt",
         price: "$100",
-        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam laborum aut explicabo molestias voluptas, eum nulla doloremque laboriosam. Accusantium omnis illum nulla architecto doloribus.",
+        description: ". Effective descriptions are tailored to a target audience, use relevant keywords for SEO, and focus on value rather than just technical specifications.",
         colors: [
             {
                 name: "Green",
@@ -61,7 +61,7 @@ const products = [
         id: 2,
         title: "Men Slim Fit Turtleneck Sweater",
         price: "$50",
-        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam laborum aut explicabo molestias voluptas, eum nulla doloremque laboriosam. Accusantium omnis illum nulla architecto doloribus.",
+        description: "Effective descriptions are tailored to a target audience, use relevant keywords for SEO, and focus on value rather than just technical specifications.",
         colors: [
             {
                 name: "Blue",
@@ -79,7 +79,7 @@ const products = [
         id: 3,
         title: "Men Striped Polo Shirt",
         price: "$20",
-        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam laborum aut explicabo molestias voluptas, eum nulla doloremque laboriosam. Accusantium omnis illum nulla architecto doloribus.",
+        description: "Effective descriptions are tailored to a target audience, use relevant keywords for SEO, and focus on value rather than just technical specifications.",
         colors: [
             {
                 name: "Grey",
@@ -93,7 +93,7 @@ const products = [
         id: 4,
         title: "Men Casual Long Sleeve Polo",
         price: "$125",
-        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam laborum aut explicabo molestias voluptas, eum nulla doloremque laboriosam. Accusantium omnis illum nulla architecto doloribus.",
+        description: "Effective descriptions are tailored to a target audience, use relevant keywords for SEO, and focus on value rather than just technical specifications.",
         colors: [
             {
                 name: "Green",
@@ -107,7 +107,7 @@ const products = [
         id: 5,
         title: "Men Western Style Denim Shirt",
         price: "$147",
-        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam laborum aut explicabo molestias voluptas, eum nulla doloremque laboriosam. Accusantium omnis illum nulla architecto doloribus.",
+        description: "Effective descriptions are tailored to a target audience, use relevant keywords for SEO, and focus on value rather than just technical specifications.",
         colors: [
             {
                 name: "Black",
@@ -121,7 +121,7 @@ const products = [
         id: 6,
         title: "Men Casual USA Print Tee",
         price: "$80",
-        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam laborum aut explicabo molestias voluptas, eum nulla doloremque laboriosam. Accusantium omnis illum nulla architecto doloribus.",
+        description: "Effective descriptions are tailored to a target audience, use relevant keywords for SEO, and focus on value rather than just technical specifications.",
         colors: [
             {
                 name: "Brown",
@@ -135,7 +135,7 @@ const products = [
         id: 7,
         title: "Men Casual Short Sleeve Polo",
         price: "$62",
-        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam laborum aut explicabo molestias voluptas, eum nulla doloremque laboriosam. Accusantium omnis illum nulla architecto doloribus.",
+        description: "Effective descriptions are tailored to a target audience, use relevant keywords for SEO, and focus on value rather than just technical specifications.",
         colors: [
             {
                 name: "Blue",
@@ -149,7 +149,7 @@ const products = [
         id: 8,
         title: "Men Summer Leaf Pattern T-Shirt",
         price: "$70",
-        description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam laborum aut explicabo molestias voluptas, eum nulla doloremque laboriosam. Accusantium omnis illum nulla architecto doloribus.",
+        description: "Effective descriptions are tailored to a target audience, use relevant keywords for SEO, and focus on value rather than just technical specifications.",
         colors: [
             {
                 name: "Green",

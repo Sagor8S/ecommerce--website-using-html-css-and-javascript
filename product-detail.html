@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Detail</title>
+    <!-- Link Font-Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" 
+    integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" 
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- CSS Link -->
+     <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <nav>
+        <a href="index.html" class="logo">Ecommerce.</a>
+
+        <a href="cart.html" class="cart-icon">
+            <i class="fa-solid fa-bag-shopping"></i>
+            <span class="cart-item-count"></span>
+        </a>
+    </nav>
+
+    <div class="poduct-detail">
+        <div class="product-img">
+            <div class="thumbnail-list">
+                <img src="images/product1_green_1.jpg">
+                <img src="images/product1_green_2.jpg">
+                <img src="images/product1_green_3.jpg">
+                <img src="images/product1_green_4.jpg">
+            </div>
+            <div class="main-img">
+                <img src="images/product1_green_1.jpg">
+            </div>
+        </div>
+
+        <div class="product-info">
+            <h2 class="title">Men Casual Round Neck T-Shirt</h2>
+            <div class="rating">
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-regular fa-star"></i>
+                <span>(4.8)</span>
+            </div>
+            <span class="price">$100</span>
+            <p class="description">Effective descriptions are tailored to a target audience, use relevant keywords for SEO, and focus on value rather than just technical specifications.</p>
+            <div class="size-selection">
+                <p>select Size</p>
+                <div class="size-options">
+                    <button class="selected">S</button>
+                    <button>M</button>
+                    <button>L</button>
+                    <button>X</button>
+                    <button>XXL</button>
+                </div>
+            </div>
+            <div class="color-selection">
+                <p>Select Color</p>
+                <div class="color-options">
+                    <img src="images/product1_green_1.jpg" class="selected">
+                    <img src="images/product1_yellow_1.jpg">
+                    <img src="images/product1_red_1.jpg">
+                    <img src="images/product1_white_1.jpg">
+                    <img src="images/product1_maroon_1.jpg">
+                </div>
+            </div>
+            <button class="btn" id="add-cart-btn">Add to Cart</button>
+            <div class="product-policy">
+                <p>100% Original Product.</p>
+                <P>Easy return and exchange policy within 14 days.</P>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Javascript code start hare -->
+
+    <script src="script.js"></script>
+
+</body>
+</html>
